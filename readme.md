@@ -8,7 +8,7 @@ The app will print a message based on the mood you input.
 
 The app is a command line app so you have to have node installed.
 
-To start it
+To start it run
 `node script.js`
 
 Select your feeling (1, 2, 3) and watch a message appear
@@ -20,4 +20,4 @@ Select your feeling (1, 2, 3) and watch a message appear
 ## Things I learned
 
 - Using the readline to read user input
-- creating cb functions
+- creating callback functions
