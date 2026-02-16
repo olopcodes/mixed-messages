@@ -1,4 +1,4 @@
-#Mixed Messages
+# Mixed Messages
 
 A project from code academy, building an app that displays different answers based on user input.
 
